@@ -1,1 +1,1 @@
-# Django_web
+# Django website available publically..!
